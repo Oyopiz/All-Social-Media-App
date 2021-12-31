@@ -15,6 +15,6 @@ Then Open the project Location in Android Studio
 
 Playstore
 
-Here Is the pLaystore Link
+Here Is the pLaystore
 [link](https://play.google.com/store/apps/details?id=com.vvoke.alliop)
 
