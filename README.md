@@ -8,6 +8,6 @@ This project uses gradle build System. To execute this project, "Import Project"
 
 Then Open the project Location in Android Studio
 # Screenshot
-<img src="https://github.com/Oyopiz/4-Level-Authentication-Android-App/blob/master/screenshot/Screenshot_20211231-100455.png" alt="Your image title" width="250"/><img src="https://github.com/Oyopiz/4-Level-Authentication-Android-App/blob/master/screenshot/Screenshot_20211231-100524.png" alt="Your image title" width="250"/>
-<img src="https://github.com/Oyopiz/4-Level-Authentication-Android-App/blob/master/screenshot/Screenshot_20211231-100535.png" alt="Your image title" width="250"/>
-<img src="https://github.com/Oyopiz/4-Level-Authentication-Android-App/blob/master/screenshot/Screenshot_20211231-100605.png" alt="Your image title" width="250"/>
+<img src="https://github.com/Oyopiz/All-Social-Media-App/blob/master/scrn/Screenshot_20211128-020900.png" alt="Your image title" width="250"/><img src="https://github.com/Oyopiz/All-Social-Media-App/blob/master/scrn/Screenshot_20211128-020913.png" alt="Your image title" width="250"/>
+<img src="https://github.com/Oyopiz/All-Social-Media-App/blob/master/scrn/Screenshot_20211128-020937.png" alt="Your image title" width="250"/>
+<img src="https://github.com/Oyopiz/All-Social-Media-App/blob/master/scrn/Screenshot_20211128-021013.png" alt="Your image title" width="250"/>
