@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.multisocial">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/iconbro"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MULTISOCIAL">
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"/>
+        <activity
+            android:name=".Snapchat"
+            android:label="Snapchat"
+            android:exported="false" />
+        <activity
+            android:name=".Discord"
+            android:label="Discord"
+            android:exported="false" />
+        <activity
+            android:name=".Reddit"
+            android:label="Reddit"
+            android:exported="false" />
+        <activity
+            android:name=".Quora"
+            android:label="Quora"
+            android:exported="false" />
+        <activity
+            android:name=".Skype"
+            android:label="Skype"
+            android:exported="false" />
+        <activity
+            android:name=".Tiktok"
+            android:label="Tiktok"
+            android:exported="false" />
+        <activity
+            android:name=".Dropbox"
+            android:label="DropBox"
+            android:exported="false" />
+        <activity
+            android:name=".Telegram"
+            android:label="Telegram"
+            android:exported="false" />
+        <activity
+            android:name=".Twitch"
+            android:label="Twitch"
+            android:exported="false" />
+        <activity
+            android:name=".Facebook"
+            android:label="Facebook"
+            android:exported="false" />
+        <activity
+            android:name=".Linkedin"
+            android:label="Linkedin"
+            android:exported="false" />
+        <activity
+            android:name=".Youtube"
+            android:label="Youtube"
+            android:exported="false" />
+        <activity
+            android:name=".Pandora"
+            android:exported="false" />
+        <activity
+            android:name=".Twitter"
+            android:label="Twitter"
+            android:exported="false" />
+        <activity
+            android:name=".Instagram"
+            android:label="Instagram"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
