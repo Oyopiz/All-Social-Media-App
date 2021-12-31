@@ -13,7 +13,7 @@ Then Open the project Location in Android Studio
 <img src="https://github.com/Oyopiz/All-Social-Media-App/blob/master/scrn/Screenshot_20211128-021013.png" alt="Your image title" width="250"/>
 <img src="https://github.com/Oyopiz/All-Social-Media-App/blob/master/scrn/Screenshot_20211128-021120.png" alt="Your image title" width="250"/>
 
-Playstore
+# Playstore
 
 Here Is the pLaystore
 [link](https://play.google.com/store/apps/details?id=com.vvoke.alliop)
